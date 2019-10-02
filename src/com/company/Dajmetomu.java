@@ -5,10 +5,16 @@ public class Dajmetomu {
         int x = 10;
         int y = 1;
         int count = 0;
+
+        System.out.println("Pridanie skuska git");
         while (x % y == 0) {
             System.out.println(count);
             count++;
         }
+
+
+
+
 
     }
 }
